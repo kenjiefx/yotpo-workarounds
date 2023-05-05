@@ -20,3 +20,5 @@ import { GalleryProductImage } from "../yotpo.v2"
         })
     },100)
 })()
+
+/** Remove the exports declaration above this line */
