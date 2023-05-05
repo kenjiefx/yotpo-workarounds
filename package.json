@@ -1,0 +1,19 @@
+{
+  "name": "yotpo-workarounds",
+  "version": "1.0.0",
+  "description": "Workaround solutions for some of onsite Yotpo-related widgets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenjiefx/yotpo-workarounds.git"
+  },
+  "author": "Kenjie Terrado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenjiefx/yotpo-workarounds/issues"
+  },
+  "homepage": "https://github.com/kenjiefx/yotpo-workarounds#readme"
+}

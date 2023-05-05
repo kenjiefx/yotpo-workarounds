@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+      "target": "es2015",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata":true,
+      "outDir": "./dist",
+      "rootDir":"./src"
+    },
+    "exclude": ["node_modules"],
+    "include": ["./src/**/*.ts"]
+}
